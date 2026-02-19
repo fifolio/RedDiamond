@@ -19,16 +19,16 @@ Below are key snapshots showcasing the main features and flows of the applicatio
 **Overview of the main landing page**  
 A clean and minimal entry point that allows users to navigate to Users and Posts sections.
 
-![Home Page](https://fifolio.com/c/screenshots/home-page.png)
+![Home Page](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-31-25.png)
 
 ----------
 
 ### 🔗 Users Page Link (Navigation)
 
 **Navigation link to Users page**  
-Snapshot showing the Users and Posts routes accessible directly from the main navigation menu.
+Snapshot showing the Users and Posts routes accessible directly from Home.
 
-![Users Page Link](https://fifolio.com/c/screenshots/users-link.png)
+![Users Page Link](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-32-21.png)
 
 ----------
 
@@ -37,7 +37,7 @@ Snapshot showing the Users and Posts routes accessible directly from the main na
 **Navigation link to Posts & Users pages**  
 Snapshot displaying how the Posts & Users pages is accessed from the top navigation bar.
 
-![Posts Page Route](https://fifolio.com/c/screenshots/posts-route.png)
+![Posts Page Route](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-33-24.png)
 
 ----------
 
@@ -46,7 +46,7 @@ Snapshot displaying how the Posts & Users pages is accessed from the top navigat
 **Complete list of users**  
 Overview of the Users page displaying all users fetched from the API with structured layout and essential details.
 
-![Users Page Overview](https://fifolio.com/c/screenshots/users-overview.png)
+![Users Page Overview](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-34-36.png)
 
 ----------
 
@@ -55,7 +55,7 @@ Overview of the Users page displaying all users fetched from the API with struct
 **Username as a clickable link**  
 Snapshot demonstrating that each username is a clickable link that navigates to a dedicated single user details page.
 
-![Clickable Username](https://fifolio.com/c/screenshots/clickable-username.png)
+![Clickable Username](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-35-36.png)
 
 ----------
 
@@ -64,7 +64,7 @@ Snapshot demonstrating that each username is a clickable link that navigates to 
 **Search functionality in Posts page**  
 Snapshot highlighting the search bar used to filter posts dynamically by title.
 
-![Posts Search Bar](https://fifolio.com/c/screenshots/posts-searchbar.png)
+![Posts Search Bar](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-38-06.png)
 
 ----------
 
@@ -73,7 +73,7 @@ Snapshot highlighting the search bar used to filter posts dynamically by title.
 **Typing in the search bar with filtered results**  
 Snapshot showing real-time filtering results while typing a post title in the search bar.
 
-![Live Search Results](https://fifolio.com/c/screenshots/posts-search-results.png)
+![Live Search Results](https://raw.githubusercontent.com/fifolio/RedDiamond/refs/heads/main/screenshots/Screenshot%20from%202026-02-19%2020-38-48.png)
 
 ----------
 
