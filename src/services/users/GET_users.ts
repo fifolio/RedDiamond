@@ -1,0 +1,13 @@
+export default async function GET_users() {
+    try {
+        const response = await fetch(`${import.meta.env.VITE_USERS_API_URL}`);
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const data = await response.json();
+        return data;
+    } catch (error: any) {
+        console.error("Fetch error:", error.message);
+        return null;
+    }
+}

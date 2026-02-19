@@ -1,0 +1,7 @@
+export { default as Navigation } from './common/Navigation'
+export { default as Header } from './home/header/Header'
+export { default as UsersCard } from './home/body/UsersCard'
+export { default as PostsCard } from './home/body/PostsCard'
+export { default as PageHeader } from './common/PageHeader'
+export { default as UsersData } from './users/UsersData'
+export { default as PostsData } from './posts/PostsData'
